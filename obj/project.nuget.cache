@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1PQuQ3LjXfQ=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\SeewoPCEnhancedAssistant\\SeewoPCEnhancedAssistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\taskscheduler\\2.11.0\\taskscheduler.2.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

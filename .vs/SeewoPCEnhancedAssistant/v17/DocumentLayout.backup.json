@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\SeewoPCEnhancedAssistant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|d:\\c#\\seewopcenhancedassistant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|D:\\C#\\SeewoPCEnhancedAssistant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|D:\\C#\\SeewoPCEnhancedAssistant\\\u66F4\u65B0\u65E5\u5FD7.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|solutionrelative:\u66F4\u65B0\u65E5\u5FD7.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|D:\\C#\\SeewoPCEnhancedAssistant\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|D:\\C#\\SeewoPCEnhancedAssistant\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D91AAB9-E055-4BF5-AF24-80127AD3F950}|SeewoPCEnhancedAssistant.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\SeewoPCEnhancedAssistant\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C#\\SeewoPCEnhancedAssistant\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:46:11.476Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\SeewoPCEnhancedAssistant\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\C#\\SeewoPCEnhancedAssistant\\Form2.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form2.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:05:31.274Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\SeewoPCEnhancedAssistant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\SeewoPCEnhancedAssistant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAMEBAAAAAAAAAADwv8gBAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:52:40.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u66F4\u65B0\u65E5\u5FD7.txt",
+              "DocumentMoniker": "D:\\C#\\SeewoPCEnhancedAssistant\\\u66F4\u65B0\u65E5\u5FD7.txt",
+              "RelativeDocumentMoniker": "\u66F4\u65B0\u65E5\u5FD7.txt",
+              "ToolTip": "D:\\C#\\SeewoPCEnhancedAssistant\\\u66F4\u65B0\u65E5\u5FD7.txt",
+              "RelativeToolTip": "\u66F4\u65B0\u65E5\u5FD7.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-10T15:35:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\C#\\SeewoPCEnhancedAssistant\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "D:\\C#\\SeewoPCEnhancedAssistant\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:09:28.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
